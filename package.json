@@ -44,7 +44,7 @@
     "dependencies": {
         "bootstrap": "4",
         "express": "^4.17.1",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "morgan": "^1.9.1",
         "normalize.css": "^8.0.0",
         "popper.js": "^1.15.0",
