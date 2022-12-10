@@ -43,7 +43,7 @@
     "homepage": "https://github.com/lifenautjoe/webpack-starter-basic#readme",
     "dependencies": {
         "bootstrap": "4",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "jquery": "^3.4.1",
         "morgan": "^1.9.1",
         "normalize.css": "^8.0.0",
